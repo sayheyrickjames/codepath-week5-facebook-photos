@@ -10,31 +10,31 @@
 	<string>week5-homework-facebook-photos</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7A305C1D8F24FA943974B86070B784F6E675327A</key>
-		<string>https://github.com/sayheyrickjames/codepath-dev.git</string>
+		<key>ED231FF39735AEFBFD69C8EDA1C8485857266639</key>
+		<string>https://github.com/sayheyrickjames/codepath-week5-facebook-photos.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>week5/week5-homework-facebook-photos/week5-homework-facebook-photos.xcodeproj</string>
+	<string>week5-homework-facebook-photos.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7A305C1D8F24FA943974B86070B784F6E675327A</key>
-		<string>../../../..</string>
+		<key>ED231FF39735AEFBFD69C8EDA1C8485857266639</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/sayheyrickjames/codepath-dev.git</string>
+	<string>https://github.com/sayheyrickjames/codepath-week5-facebook-photos.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7A305C1D8F24FA943974B86070B784F6E675327A</string>
+	<string>ED231FF39735AEFBFD69C8EDA1C8485857266639</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7A305C1D8F24FA943974B86070B784F6E675327A</string>
+			<string>ED231FF39735AEFBFD69C8EDA1C8485857266639</string>
 			<key>IDESourceControlWCCName</key>
-			<string>codepath-dev</string>
+			<string>codepath-week5-facebook-photos</string>
 		</dict>
 	</array>
 </dict>
