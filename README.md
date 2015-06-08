@@ -18,6 +18,6 @@ The purpose of this homework is to leverage animations and gestures to transitio
 - [  ] Optional: The full screen photo should be zoomable.
 - [  ] Optional: The user should be able to page through the other photos in full screen mode.
 
-![facebook-walkthrough](https://github.com/sayheyrickjames/codepath-week3-mailbox/blob/master/mailbox-walkthrough.gif?raw=true)
+![facebook-walkthrough](https://github.com/sayheyrickjames/codepath-week5-facebook-photos/blob/master/facebook-walkthrough.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
